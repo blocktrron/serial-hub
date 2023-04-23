@@ -13,7 +13,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "CH344_0_0"
-      (pin power_in line (at -13.97 106.68 270) (length 2.54) hide
+      (pin passive line (at -13.97 106.68 270) (length 2.54) hide
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "24" (effects (font (size 1.27 1.27))))
       )
@@ -61,11 +61,11 @@
         (name "DTR3/TNOW3/GPIO11" (effects (font (size 1.27 1.27))))
         (number "34" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at 0 10.16 90) (length 2.54) hide
+      (pin passive line (at 0 10.16 90) (length 2.54) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "35" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at -13.97 106.68 270) (length 2.54) hide
+      (pin passive line (at -13.97 106.68 270) (length 2.54) hide
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "36" (effects (font (size 1.27 1.27))))
       )
@@ -117,7 +117,7 @@
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "47" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at -13.97 106.68 270) (length 2.54) hide
+      (pin passive line (at -13.97 106.68 270) (length 2.54) hide
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "48" (effects (font (size 1.27 1.27))))
       )
@@ -173,7 +173,7 @@
         (name "DSR2" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at 0 10.16 90) (length 2.54) hide
+      (pin passive line (at 0 10.16 90) (length 2.54) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "20" (effects (font (size 1.27 1.27))))
       )
@@ -185,7 +185,7 @@
         (name "RXD2" (effects (font (size 1.27 1.27))))
         (number "22" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at 0 10.16 90) (length 2.54) hide
+      (pin passive line (at 0 10.16 90) (length 2.54) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "23" (effects (font (size 1.27 1.27))))
       )
@@ -201,7 +201,7 @@
         (name "RESET" (effects (font (size 1.27 1.27))))
         (number "7" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at 0 10.16 90) (length 2.54) hide
+      (pin passive line (at 0 10.16 90) (length 2.54) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
       )
