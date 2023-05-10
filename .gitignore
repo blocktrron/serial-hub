@@ -30,3 +30,5 @@ fp-info-cache
 
 freerouting.bin
 jlcpcb/
+
+*.kicad_sch_old
